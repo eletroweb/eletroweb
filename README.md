@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eletroweb estudante  das tecnologias.
 - 👀 I’m interested in ...criar uma cumunidade onde podemos criar um aplicativo, que seja útil para emprendedores.
-- 🌱 I’m currently  cursando o 4º semestre em Análise e Desenvolvimento de Sistemas.
+- 🌱  Sou formado em Análise e desenvo  de sistemas
 - 💞️ I’m looking to collaborate on ...projetos e fazer alguns trabalhos freelance, pois afinal, uma grana é sempre bem vinda.
 - 📫 How to reach me ...aqui no github, linkedin
 
