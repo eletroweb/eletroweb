@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eletroweb estudante  das tecnologias.
+- 👋 Hi, I’m @eletroweb em busca das tecnologias.
 - 👀 I’m interested in ...criar uma cumunidade onde podemos criar um aplicativo, que seja útil para emprendedores.
 - 🌱  Sou formado em Análise e desenvo  de sistemas
 - 💞️ I’m looking to collaborate on ...projetos e fazer alguns trabalhos freelance, pois afinal, uma grana é sempre bem vinda.
