@@ -21,7 +21,7 @@
 
   ##
 
-  ![Snake animation](https://github.com/eletroweb/eletroweb/blob/output/github-contribution-grid-snack.svg)
+  ![snake gif](https://github.com/eletroweb/eletroweb/blob/output/github-contribution-grid-snake.gif)
   
 </div>
 
